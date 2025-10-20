@@ -1,13 +1,13 @@
 // === Ejercicios Básicos de JavaScript ===
 
 // 1. Declara variables con tu nombre, edad y ciudad usando let y const
-const nombre = "Roberto";
-let edad = 25;
+const nombre = "RENE TERAN ROQUE";
+let edad = 40;
 const ciudad = "Cochabamba";
 console.log(`Nombre: ${nombre}, Edad: ${edad}, Ciudad: ${ciudad}`);
 
 // 2. Variables de diferentes tipos
-let cadena = "Hola mundo";
+let cadena = "Bievenidos";
 let numero = 10;
 let booleano = true;
 let nulo = null;
